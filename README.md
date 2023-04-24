@@ -3,8 +3,8 @@
 <!--
 **beytullahay/beytullahay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![](https://media1.giphy.com/media/3o6UBhjHobLFgEmrJu/giphy.gif?cid=de9bf95eybiytohkq07jqf24k2qml3ze77pbgm5javor58yt&rid=giphy.gif&ct=g)
-
+![](https://giphy.com/gifs/explosion-oe33xf3B50fsc)
+![giphy](https://user-images.githubusercontent.com/81561442/233941649-e526fd67-494c-4a74-bce2-9ece8365307b.gif)
 
 
 Here are some ideas to get you started:
