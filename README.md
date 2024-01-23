@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Flutter Projects]("")
 
-- 🌱 I’m currently learning **Flutter, Firebase, Kotlin**
+- 🌱 I’m currently learning **Flutter, Kotlin , Firebase, Huawei **
  
 - 👨‍💻 All of my projects are available at [https://github.com/beytullahay?tab=repositories](https://github.com/beytullahay?tab=repositories)
 
